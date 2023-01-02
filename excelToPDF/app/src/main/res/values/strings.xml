@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExcelViewer</string>
+    <string name="title_choose_file">File Manager</string>
+    <string name="title_choose">Select</string>
+    <string name="dialog_cancel">Cancel</string>
+
+</resources>
